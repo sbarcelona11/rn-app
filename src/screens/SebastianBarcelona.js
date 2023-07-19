@@ -5,7 +5,7 @@ const SebastianBarcelona = () => {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.content}>
-        <Text style={styles.textContent}>Jose Sebastian Barcelona</Text>
+        <Text style={styles.textContent}>Sebastian Barcelona</Text>
       </View>
     </SafeAreaView>
   );
