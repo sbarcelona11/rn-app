@@ -10,6 +10,12 @@ const HomeScreen = ({ navigation }) => {
                     btnIcon="user-plus"
                     onPress={() => navigation.navigate("SebastianBarcelona")} 
             />
+            <MyButton
+                    title="Rodrigo Roselli"
+                    btnColor="#89CFF0"
+                    btnIcon="user-plus"
+                    onPress={() => navigation.navigate("RodrigoRoselli")} 
+            />
             </ScrollView>
         </SafeAreaView>                
     )
